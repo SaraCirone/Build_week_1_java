@@ -1,0 +1,9 @@
+"mezzi_type","mezzo_id","bigliettividimati","capienza","finemanutenzione","inservizio","iniziomanutenzione","ncorse","numero","tratte_id"
+"Autobus",1,0,80,NULL,True,NULL,0,"780",1
+"Autobus",2,0,80,NULL,True,NULL,0,"8",2
+"Autobus",3,0,80,NULL,False,NULL,0,"071",3
+"Autobus",4,0,80,NULL,True,NULL,0,"720",4
+"Tram",5,0,100,NULL,False,NULL,0,"2",1
+"Tram",6,0,100,NULL,True,NULL,0,"5",2
+"Tram",7,0,100,NULL,True,NULL,0,"14",3
+"Tram",8,0,100,NULL,True,NULL,0,"19",4

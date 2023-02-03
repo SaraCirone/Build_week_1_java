@@ -1,0 +1,4 @@
+"dtype","codutente","cognome","email","nome","dataemissione","datascadenza","validita","abbonamento_id"
+"Tessera",1,"Cirone","scirone@email.com","Sara","2023-02-03","2024-02-03",True,1
+"Tessera",2,"Quarto","gaetano@email.com","Gaetano","2023-02-03","2024-02-03",True,NULL
+"Tessera",3,"Lattanzi","luca@email.com","Luca","2023-02-03","2024-02-03",True,2
